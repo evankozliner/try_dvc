@@ -2,3 +2,6 @@
     remote = storage
 ['remote "storage"']
     url = s3://dvc-storage-ekozliner
+
+[aws]
+profile = ekozline
